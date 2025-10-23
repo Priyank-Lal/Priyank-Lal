@@ -13,14 +13,13 @@
 
 ### ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,shadcn,postman,git,github,vercel,openai,socketio" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanklal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyank-Lal&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
