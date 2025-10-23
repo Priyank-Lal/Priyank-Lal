@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Priyank Lal!</h1>
+<h3 align="center">Full Stack Developer | MERN | Exploring GenAI</h3>
 
-<!--
-**Priyank-Lal/Priyank-Lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  About Me
+- 16 y/o  **Full Stack Developer**
+- 🧠 Mastering and exploring the **world of code**
+- 🤖 Interested in **Generative AI** and the **AI world**
+- 🚀 🌱 Always curious & Learning something new every day
+- 💼 Open to exciting **opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,tailwind" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanklal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanklal&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+---
+
+### 📫 Connect with Me
+- 🐦 Twitter: [@PriyankLal_](https://twitter.com/PriyankLal_)  
+- 📧 Email: **lalpriyank14@gmail.com**
+
+---
