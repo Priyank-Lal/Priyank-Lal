@@ -4,11 +4,10 @@
 ---
 
 ###  About Me
-- 16 y/o  **Full Stack Developer**
+- 16 y/o programmer
 - Mastering and exploring the **world of code**
 - Interested in **Generative AI** and the **AI technologies**
 - Always curious & Learning something new every day
-- Open to exciting **opportunities**
 
 
 ### ⚙️ Tech Stack
@@ -18,8 +17,8 @@
 
 ---
 
-### 📫 Connect with Me
-- 🐦 Twitter: [@PriyankLal_](https://twitter.com/PriyankLal_)  
-- 📧 Email: **lalpriyank14@gmail.com**
+###  Connect with Me
+- Twitter: [@PriyankLal_](https://twitter.com/PriyankLal_)  
+- Email: **lalpriyank14@gmail.com**
 
 ---
